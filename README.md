@@ -8,4 +8,4 @@
 
 **Site simples para explicação do GitHub ↓↓**
 
-<a href="https://pietrodessotti.github.io/projeto-site/index.html" target="_blank">https://pietrodessotti.github.io/projeto-site/index.html</a>
+https://pietrodessotti.github.io/projeto-site/index.html
