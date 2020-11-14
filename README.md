@@ -6,4 +6,4 @@
 
 ### Curso em Vídeo - Profº Gustavo Guanabara
 
-**Essa aula foi uma aula de estudo branch**
+**Essa aula foi uma aula de estudo de branch**
