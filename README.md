@@ -6,4 +6,6 @@
 
 ### Curso em Vídeo - Profº Gustavo Guanabara
 
-**Essa aula foi uma aula de estudo de branch**
+**Site simples para explicação do GitHub ↓↓**
+
+https://pietrodessotti.github.io/projeto-site/index.html
